@@ -1,9 +1,8 @@
 ﻿using System.Text;
 
+StringBuilder builder = new StringBuilder();
 //Begin by placing the file somewhere other than the directory of your new program solution
 string path = @"C:\Users\1\Desktop\Intro_to_LINQ_and_MVC\";
-
-    StringBuilder builder = new StringBuilder();
 
 try
 {
